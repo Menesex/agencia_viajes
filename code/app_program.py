@@ -24,8 +24,8 @@ def fnt_agente(op):
             input('ERROR: Edad fuera de rango <ENTER>...')
     elif op == '2':
         fnt_limpiar()
+        print('<<< 📃LISTA DE VIAJEROS📃 >>>\n')
         if len(ls_viajeros) > 0:
-            print('<<< 📃LISTA DE VIAJEROS📃 >>>')
             print(f'Lista: {ls_viajeros}')
             input('Fin de la consulta <ENTER>...')
         else:

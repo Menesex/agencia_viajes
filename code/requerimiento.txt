@@ -1,0 +1,1 @@
+elaborar un programa que permita calcular el área de un lote y luego determine su valor de acuerdo a las sig condiciones
