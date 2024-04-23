@@ -34,5 +34,5 @@ def fnt_agente(op):
 sw = True
 while sw == True:
     fnt_limpiar()
-    opcion = input('<<< [💠] MENU PRINCIPAL [💠] >>>\n\n[0]Salir\n[1]Agregar\n[2]Mostrar\n▶ ')
+    opcion = input('<<< [🔯] MENU PRINCIPAL [🔯] >>>\n\n0️⃣  Salir\n1️⃣  Agregar\n2️⃣  Mostrar\n▶ ')
     fnt_agente(opcion)
